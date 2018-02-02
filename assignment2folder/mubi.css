@@ -1,0 +1,71 @@
+#row{
+    display: flex;
+    width: 100%	;
+    background-size: 
+}
+h4{
+    text-align: left;
+    font-family: Arial;
+    font-size: 15px;
+    color:#fff000;
+    padding-left: 16px;
+}
+.image{
+    margin-top: 8px;
+}
+.image:hover{
+}
+.numbers{	 
+	padding-left: 30px;
+	color: #fff000;
+}
+.subheader{
+	display: flex;
+	background-color: #32c8de;
+	font-size: 13px;
+}
+.subheader:hover{
+	background-color: #666;
+}
+.columns{
+	padding: 16px;
+}
+i{
+ width: 50px;
+ color: #fff;
+ background-size: contain;
+}
+.icon {
+	background-color: #32c8de;
+	margin-right: 10px;
+	border: 2px;
+}
+.icon:hover{
+	background-color: #666;  
+}
+.icon1{
+	background-color: red;
+}
+.icon2{
+	background-color: green;
+}
+.icon3{
+	background-color: cyan;
+}
+.icon4{
+	background-color: yellow;
+}
+.icon5{
+	background-color: green;
+}
+.icon6{
+	background-color: blue;}
+.icon7{
+	background-color: yellow;
+}
+.icon8{
+	background-color: red;
+}
+.icon9{
+	background-color: cyan;
+}

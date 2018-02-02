@@ -1,0 +1,18 @@
+{background-color: red;}
+
+.row  {
+    display: flex;
+}
+h4{
+    text-align: left;
+    font-family: Arial;
+    font-size: 15px;
+    color:red;
+    padding-left: 16px;
+    
+}
+.img{
+    padding-top: 2px;
+    width:20px;
+
+}
